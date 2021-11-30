@@ -10,9 +10,12 @@
     - [Desafios](#desafios)
       - Condições
       - Condições alinhadas
+      - Dicionários
       - Estrutura repetição
       - Estrutura repetição while
       - Interrompendo while
+      - Listas
+      - Tuplas
     - [Projetos](#projetos)
     - [Tarefas](#tarefas)
 
@@ -20,7 +23,7 @@
 - 1º: Git e metodologias ágeis ✅
 - 2º: Lógica de programação ✅
 - 3º: Programação orientada a objeto ✅
-- 4º: Stack Python (22%)
+- 4º: Stack Python (28%)
 
 ## Pastas com tarefas 📂
 
@@ -31,17 +34,20 @@
 
 ## 2. Stack <a href="https://www.python.org/">Python</a> 🐍🔜
   - ## Desafios
-    <h3>Nesta pasta ficará alguns desafios desenvolvidos</h3>
+    > <h3>Nesta pasta ficará alguns desafios desenvolvidos</h3>
     <ul>
     <li>Condições</li>
     <li>Condições alinhadas</li>
+    <li>Dicionários</li>
     <li>Estrutura repetição</li>
     <li>Estrutura repetição while</li>
     <li>Interrompendo while</li>
+    <li>Listas</li>
+    <li>Tuplas</li>
     </ul>
  
 - ## Projetos
-  <h4>Nesta pasta treinos e exemplos feitos para consulta</h4>
+  > <h3>Nesta pasta ficará os treinos e exemplos feitos para consulta</h3>
   
 - ## Tarefas
-  <h4>Nesta pasta será postada todas as tarefas de cada conteúdo</h4>
+  > <h3>Nesta pasta será postada todas as tarefas de cada conteúdo</h3>
