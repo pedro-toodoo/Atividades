@@ -1,4 +1,4 @@
-import moeda_D109 as m
+import utilidades.moeda_D109 as m
 
 preco = float(input("Digite o preço: R$"))
 
