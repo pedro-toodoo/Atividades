@@ -1,5 +1,6 @@
-frase1 = input("Digite uma frase: ")
-frase2 = input("Digite outra frase: ")
+frase1 = input("Digite uma frase: ").strip()
+frase2 = input("Digite outra frase: ").strip()
+
 
 print(f"Tamanho de '{frase1}': {len(frase1)}")
 print(f"Tamanho de '{frase2}': {len(frase2)}")

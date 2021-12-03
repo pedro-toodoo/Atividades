@@ -12,6 +12,7 @@ while True:
     cod = int(input("Código: "))
     if cod == 0:
         break
+
     altura = float(input("Altura: "))
     peso = float(input("Peso: "))
 

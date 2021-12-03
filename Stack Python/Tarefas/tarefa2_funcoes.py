@@ -1,10 +1,6 @@
 from datetime import datetime
 
-#meses = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"]
-
 def data(d):
-    #aux = input("Informe uma data (DD/MM/AAAA): ")
-    #if d[2] == "/" and d[5] == "/":
     try:
         datetime.strptime(d, "%d/%m/%Y")
     except ValueError:

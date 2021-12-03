@@ -8,6 +8,7 @@ for i in range(0, 12):
 
 media = soma / len(lista)
 
+print(media)
 for i in range(0, 12):
     if lista[i] > media:
         print(f"Mês: {meses[i]} - Temperatura: {lista[i]}ºC")

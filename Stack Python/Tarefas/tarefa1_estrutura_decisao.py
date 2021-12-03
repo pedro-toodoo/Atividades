@@ -18,7 +18,7 @@ elif opcao == 2:
         print(f"{num} é negativo!")
 
 elif opcao == 3:
-    if type(num) == int:
-        print(f"{num} é inteiro!")
-    elif type(num) == float:
+    if float.is_integer(num):
+        print(f"{int(num)} é inteiro!")
+    else:
         print(f"{num} é decimal!")
