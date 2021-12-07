@@ -7,23 +7,31 @@
 - [Pastas com tarefas](#pastas-com-tarefas-)
   - [Lógicas de programação](#1-lógicas-de-programação-)
   - [Stack python](#2-stack-python-)
-    - [Desafios](#desafios)
+    - [Desafios](#desafios) (apenas as pastas dentro do diretório)
       - Condições
       - Condições alinhadas
       - Dicionários
       - Estrutura repetição
       - Estrutura repetição while
+      - Funções 
       - Interrompendo while
       - Listas
+      - Módulos e pacotes
+      - Tratamento de Erros
       - Tuplas
-    - [Projetos](#projetos)
-    - [Tarefas](#tarefas)
+    - [Projetos](#projetos) (apenas as pastas dentro do diretório)
+      - Análise de dados
+      - Módulos
+      - Orientação a objeto
+    - [Tarefas](#tarefas) (apenas as pastas dentro do diretório)
+      - Tarefa 1 classes
+      - Tarefa 2 classes
 
 ## Cronograma 📆
 - 1º: Git e metodologias ágeis ✅
 - 2º: Lógica de programação ✅
 - 3º: Programação orientada a objeto ✅
-- 4º: Stack Python (28%)
+- 4º: Stack Python (58%)
 
 ## Pastas com tarefas 📂
 
@@ -48,6 +56,15 @@
  
 - ## Projetos
   > <h3>Nesta pasta ficará os treinos e exemplos feitos para consulta</h3>
+  <ul>
+    <li>Análise de dados</li>
+    <li>Módulos</li>
+    <li>Orientação a objeto</li>
+    </ul>
   
 - ## Tarefas
   > <h3>Nesta pasta será postada todas as tarefas de cada conteúdo</h3>
+    <ul>
+    <li>Tarefa 1 classes</li>
+    <li>Tarefa 1 classes</li>
+    </ul>
