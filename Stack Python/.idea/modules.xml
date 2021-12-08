@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Nova pasta/.idea/Nova pasta.iml" filepath="$USER_HOME$/Desktop/Nova pasta/.idea/Nova pasta.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Stack Python.iml" filepath="$PROJECT_DIR$/.idea/Stack Python.iml" />
     </modules>
   </component>
