@@ -21,6 +21,7 @@
       - Tuplas
     - [Projetos](#projetos) (apenas as pastas dentro do diretório)
       - Análise de dados
+        - Jupyter Notebook - códigos
       - Módulos
       - Orientação a objeto
     - [Tarefas](#tarefas) (apenas as pastas dentro do diretório)
@@ -57,7 +58,11 @@
 - ## Projetos
   > <h3>Nesta pasta ficará os treinos e exemplos feitos para consulta</h3>
   <ul>
-    <li>Análise de dados</li>
+    <li>Análise de dados (para melhor visualização de alguns arquivos .csv desenvolvi os códigos no jupyter notebook)
+      <ul>
+        <li>Jupyter Notebook - códigos</li>
+      </ul>
+  </li>
     <li>Módulos</li>
     <li>Orientação a objeto</li>
     </ul>
