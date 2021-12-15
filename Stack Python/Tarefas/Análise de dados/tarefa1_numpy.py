@@ -26,7 +26,7 @@ matriz = np.ones((3, 4))
 print(f"Matriz preenchida com um: \n{matriz}")
 arr_matriz = []
 for i in range(0, 3):
-    for j in range(0, 3):
+    for j in range(0, 4):
         arr_matriz.append(matriz[i][j])
 print(f"Lista criada à partir da matriz 3x4 preenchida por 1: {arr_matriz}")
 

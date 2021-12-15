@@ -7,5 +7,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Nova pasta" />
+    <orderEntry type="module" module-name="projeto-stack-python" />
   </component>
 </module>
