@@ -88,20 +88,3 @@ print(teste.count(1))
 for i in range(4):
     for j in range(4):
         print(f"{matriz[i][j]} = {lista.count(matriz[i][j])}")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
