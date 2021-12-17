@@ -28,12 +28,15 @@
     - [Tarefas](#tarefas) (apenas as pastas dentro do diretório)
       - Tarefa 1 classes
       - Tarefa 2 classes
+      - Análise de dados (exercícios feitos no pycharm e jupyter notebook)
+        - tarefa3_numpy
+        - tarefa5_df
 
 ## Cronograma 📆
 - 1º: Git e metodologias ágeis ✅
 - 2º: Lógica de programação ✅
 - 3º: Programação orientada a objeto ✅
-- 4º: Stack Python (62%)
+- 4º: Stack Python (77%)
 
 ## Instalações 🔧
 Abra o prompt de comandos e realize os procedimentos abaixo caso queira instalar o Pycharm ou Jupyter.
