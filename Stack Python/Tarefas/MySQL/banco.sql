@@ -1,0 +1,15 @@
+CREATE DATABASE banco;
+USE banco;
+
+CREATE TABLE Cliente(
+	idCliente INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    nome VARCHAR(50) NOT NULL,
+    cpf VARCHAR(14) NOT NULL,
+    endereco VARCHAR(50) NOT NULL
+);
+
+ALTER TABLE Cliente ADD ano_nasc INT NOT NULL;
+
+SELECT * FROM Cliente;
+
+DROP TABLE Cliente
