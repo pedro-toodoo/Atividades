@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
     busca_prof2 = prof.find({'$or': [{'nome': {'$regex': 'a$'}, 'ano_nasc': {'$lte': 1980},
                                       'ano_nasc': {'$gt': 1987}}]})
-    #busca_prof2 = prof.find({'nome': {'$regex': 'a$'}, 'ano_nasc': {'$lte': 1980}})
+    #busca_prof2 = prof.find({'nome': {'$regex': 'a$'}, 'ano_nasc': {'$lte': 1980}})'ano_nasc': {'$gt': 1987}
     for i in busca_prof2:
         print(f"Nome: {i['nome']}")
         print(f"Ano de nascimento: {i['ano_nasc']}")
