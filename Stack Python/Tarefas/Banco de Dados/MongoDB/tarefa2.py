@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
     print("-"*20)
 
-    busca_prof1 = prof.find({'$or': [{'ano_nasc': {'$lte': 1990}, 'natural.estado': 'Minas Gerais'}]}, {'_id': 0})
+    busca_prof1 = prof.find({'$or': [{'ano_nasc': {'$lte': 1990}, 'natural.estado': 'São Paulo'}]}, {'_id': 0})
     for i in busca_prof1:
         print(f"Nome: {i['nome']}")
         print(f"Estado: {i['natural']['estado']}")

@@ -1,5 +1,6 @@
 import numpy as np
 
+
 print(f"Nº 1:\nValores igualmente espaçados: {np.linspace(0, 1, 30)}")
 
 

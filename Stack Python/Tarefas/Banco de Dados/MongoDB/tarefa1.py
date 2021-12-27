@@ -32,8 +32,8 @@ if __name__ == '__main__':
         }
     }
 
-    '''prof = db.professores.insert_many([prof1, prof2])
-    verifica(prof)'''
+    #prof = db.professores.insert_many([prof1, prof2])
+    #verifica(prof)
 
     escola1 = {
         "nome": "Sinhá Moreira",
@@ -51,15 +51,5 @@ if __name__ == '__main__':
 
     escola = db.escolas.insert_many([escola1, escola2])
     verifica(escola)
-
-
-
-
-
-
-
-
-
-
 
 

@@ -3,7 +3,7 @@ import pandas as pd
 #1
 seriesAno1 = {'Python': 9.85, 'Java': 14.98, 'C++': 16.04}
 seriesAno2 = {'Java': 17.35, 'C++': 12.67, 'Python': 11.56}
-df = pd.DataFrame(data=seriesAno1)
+#df = pd.DataFrame(data=seriesAno1)
 print(f"ANO 1:\n{pd.Series(seriesAno1)}")
 print(f"ANO 2:\n{pd.Series(seriesAno2)}\n")
 

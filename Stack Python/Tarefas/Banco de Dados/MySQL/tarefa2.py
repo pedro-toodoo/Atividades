@@ -74,7 +74,7 @@ if __name__ == '__main__':
     conexao = pymysql.connect(
         host='127.0.0.1',
         user='root',
-        password='Par15632@',
+        password='admin',
         db='secreto',
         charset='utf8mb4',
         cursorclass=pymysql.cursors.DictCursor
@@ -109,12 +109,12 @@ insert_agente_has_missao(conexao, 4, 2)
 insert_agente_has_missao(conexao, 5, 1)'''
 
 #BUSCA
-pesquisar_agente_missao(conexao)
+'''pesquisar_agente_missao(conexao)
 print("-"*40)
 pesquisar_missao_vilao(conexao)
 print("-"*40)
-pesquisa_agente_missao_vilao(conexao)
+pesquisa_agente_missao_vilao(conexao)'''
 
-update_data_missao(conexao, 3, '2002-04-03')
+#update_data_missao(conexao, 3, '2002-04-03')
 delete_agente(conexao, 5)
 

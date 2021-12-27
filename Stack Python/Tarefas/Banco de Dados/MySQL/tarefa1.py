@@ -23,18 +23,18 @@ if __name__ == '__main__':
     conexao = pymysql.connect(
         host='127.0.0.1',
         user='root',
-        password='Par15632@',
+        password='admin',
         db='banco',
         charset='utf8mb4',
         cursorclass=pymysql.cursors.DictCursor
     )
 
     #inserção de 2 clientes:
-    insert_cliente(conexao, 'Naruto', '123.456.789-00', 'Rua Konoha')
-    insert_cliente(conexao, 'Gojo', '321.654.987-11', 'Rua Jujutsu')
+    #insert_cliente(conexao, 'Naruto', '123.456.789-00', 'Rua Konoha')
+    #insert_cliente(conexao, 'Gojo', '321.654.987-11', 'Rua Jujutsu')
 
-    update_cliente(conexao, 1, 2002)
-    update_cliente(conexao, 2, 2020)
+    #update_cliente(conexao, 1, 2002)
+    #update_cliente(conexao, 2, 2020)
 
     delete_cliente(conexao, 1)
 
