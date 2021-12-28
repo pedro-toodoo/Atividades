@@ -2,6 +2,10 @@
     padding: 0;
 }
 
+.container-fluid .row{
+    margin: 0;
+}
+
 /*Barra de navegação */
 .navbar{
     border-bottom: 1px solid #333;
@@ -19,6 +23,46 @@
 .navbar-light .navbar-nav a.nav-link{
     color: #333;
     letter-spacing: 1px;
+}
+
+/*Dashboard*/
+.dashboard{
+    padding: 0;
+    width: 100%;
+    display: block;
+}
+
+.dashboard h4{
+    font-size: 20px;
+}
+
+.dashboard span{
+    font-size: 40px;
+    display: block;
+    width: 100%;
+}
+
+.dashboard-box{
+    float: left;
+    background-color: #dfdfdf;
+    color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+    height: 130px;
+    width: 32%;
+    text-align: center;
+}
+
+#dashboard-lastday{
+    background-color: #3476e2;
+}
+
+#dashboard-done{    
+    background-color: #13c43f;
+}
+
+#dashboard-doing{
+    background-color: #db1e47;    
 }
 
 /*Botão de adicionar*/
@@ -47,6 +91,19 @@
     position: absolute;
     top: 12px;
     right: 26px;
+    cursor: pointer;
+}
+
+/*Filtro*/
+.filter-div{
+    margin-bottom: 15px;
+    padding: 0;
+}
+
+#filter{
+    display: inline-block;
+    width: 200px;
+    margin-left: 10px;
 }
 
 .search-div{
@@ -69,11 +126,16 @@
     list-style: none;
     font-size: 20px;
     height: 50px;
+    padding: 0 10px;
     padding-top: 10;
     border-bottom: 1px dashed #ccc;
 }
 
-.fas.fa-trash, .fas.fa-edit{
+.task-item.done{
+    background-color: #ccc;
+}
+
+.fas.fa-trash, .fas.fa-edit, .fas.fa-check{
     cursor: pointer;
     margin: 5px;
     font-size: 20px;
@@ -86,6 +148,14 @@
 
 .fas.fa-edit{
     color: #13c43f;
+}
+
+.fas.fa-check{
+    color: #ccc;
+}
+
+.done .fas.fa-check{
+    color: #3476e2;
 }
 
 /*Rodapé*/
@@ -102,3 +172,38 @@ footer p{
     position: relative;
 }
 
+/* Messages */
+ul.messages{
+    padding: 0;
+}
+
+ul.messages li{
+    list-style: none;
+}
+
+/*Paginação*/
+.pagination{
+    margin-bottom: 20px;
+}
+
+.step-links{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.step-links .current{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/*Login*/
+
+.auth-card{
+    margin-bottom: 30px;
+}
+
+.change-form-p{
+    margin-top: 30px;
+    text-align: center;
+}
