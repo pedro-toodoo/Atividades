@@ -46,7 +46,7 @@
 - 1º: Git e metodologias ágeis ✅
 - 2º: Lógica de programação ✅
 - 3º: Programação orientada a objeto ✅
-- 4º: Stack Python (79%)
+- 4º: Stack Python ✅
 
 ## Instalações 🔧
 Abra o prompt de comandos e realize os procedimentos:
@@ -67,7 +67,7 @@ pip install scipy
 ```
 - 3º instalar pacote 'matplotlist' para gerar gráficos bem legais: 
 ```
-pip install amatplotlist
+pip install matplotlist
 ```
 ### Jupyter Notebook
 <a href="https://jupyter.org/">Site</a>
@@ -132,3 +132,4 @@ pip install pymongo
     <li>Tarefa 1 classes</li>
     <li>Tarefa 1 classes</li>
     </ul>
+<h1> Começando nova etapa: estudos de python na <a href="https://www.udemy.com/?deal_code=&utm_source=aff-campaign&utm_medium=udemyads&utm_term=Homepage&utm_content=Textlink&utm_campaign=Admitad-default&admitad_uid=d4a97e0ec7f1175222b274215ff2b54a&publisher_id=1437351&website_id=1599938">UDEMY</a>🤘🤓🤘
