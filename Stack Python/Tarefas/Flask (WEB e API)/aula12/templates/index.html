@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>sessio</title>
+</head>
+<body>
+  {% if username != '' %}
+    <p>Usuário {{username}} logado</p>
+    <p><a href="/logout">Logout</a></p>
+  {% else %}
+    <p>Não há usuários logados</p>
+    <p><a href="/login">Login</a></p>
+  {% endif %}
+</body>
+</html>
