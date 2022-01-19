@@ -8,7 +8,7 @@ def index():
     username = ''
     if 'username' in session:
         username = session['username']
-    return render_template('index.html', username=username)
+    return render_template('validado.html', username=username)
 
 @aula12.route('/login', methods=['GET', 'POST'])
 def login():
