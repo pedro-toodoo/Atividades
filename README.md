@@ -9,6 +9,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [MySQL](#mysql)
   - [MongoDB](#mongodb)
+  - [Flask](#flask)
 - [Pastas com tarefas](#pastas-com-tarefas-)
   - [Lógicas de programação](#1-lógicas-de-programação-)
   - [Stack python](#2-stack-python-)
@@ -30,6 +31,8 @@
       - Banco de Dados
         - MongoDB
         - MySQL
+      - Django
+      - Flask (WEB e API)
       - Módulos
       - Orientação a objeto
     - [Tarefas](#tarefas) (apenas as pastas dentro do diretório) 
@@ -39,6 +42,7 @@
       - Banco de Dados
         - MongoDB
         - MySQL
+      - Flask (WEB e API)
       - Tarefa 1 classes
       - Tarefa 2 classes
 
@@ -47,6 +51,8 @@
 - 2º: Lógica de programação ✅
 - 3º: Programação orientada a objeto ✅
 - 4º: Stack Python ✅
+- 5º: Curso <a href="https://www.udemy.com/?deal_code=&utm_source=aff-campaign&utm_medium=udemyads&utm_term=Homepage&utm_content=Textlink&utm_campaign=Admitad-default&admitad_uid=d4a97e0ec7f1175222b274215ff2b54a&publisher_id=1437351&website_id=1599938">udemy<a/> - DJANGO REST FRAMEWORK ✅
+- 6º: APIs com Python (21%)
 
 ## Instalações 🔧
 Abra o prompt de comandos e realize os procedimentos:
@@ -93,6 +99,15 @@ pip install pymongo
 - 2º Instale o MongoDB (vem por padrão o Compass): <a href="https://www.youtube.com/watch?v=Kee0W_iIxFM&t=198s&ab_channel=AlexandreBrand%C3%A3oLustosa">Tutorial aqui</a>
 - 3º Abra o Pycharm: Vá em configurações (canto superior esquerdo). Clique na pasta de projetos e depois em 'Python Interpreter' e adicione na cruz "´pymongo"<br>![image](https://user-images.githubusercontent.com/94690905/147152062-712a74f6-400e-481e-8139-9ef486ab8fd0.png)
 
+### Flask
+- 1º Abra o terminal e digite: 
+```
+pip install flask-sqlalchemy
+```
+```
+pip install flask
+```
+
 
 ## Pastas com tarefas 📂
 ## 1. Lógicas de programação 💬
@@ -122,6 +137,8 @@ pip install pymongo
         <li>Jupyter Notebook - códigos</li>
       </ul>
   </li>
+    <li>Django</li>
+    <li>Flask (WEB e API)</li>
     <li>Módulos</li>
     <li>Orientação a objeto</li>
     </ul>
@@ -129,7 +146,9 @@ pip install pymongo
 - ## Tarefas
   > <h3>Nesta pasta será postada todas as tarefas de cada conteúdo</h3>
     <ul>
+    <li>Análise de dados</li>
+    <li>Banco de dados</li>
+    <li>Flask (WEB e API)</li>
     <li>Tarefa 1 classes</li>
-    <li>Tarefa 1 classes</li>
+    <li>Tarefa 2 classes</li>
     </ul>
-<h1> Começando nova etapa: estudos de python na <a href="https://www.udemy.com/?deal_code=&utm_source=aff-campaign&utm_medium=udemyads&utm_term=Homepage&utm_content=Textlink&utm_campaign=Admitad-default&admitad_uid=d4a97e0ec7f1175222b274215ff2b54a&publisher_id=1437351&website_id=1599938">UDEMY</a>🤘🤓🤘
