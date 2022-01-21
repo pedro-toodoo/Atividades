@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Atividades.iml" filepath="$PROJECT_DIR$/.idea/Atividades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Projeto/.idea/Projeto.iml" filepath="$PROJECT_DIR$/../Projeto/.idea/Projeto.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/pokedex-api/.idea/pokedex-api.iml" filepath="$USER_HOME$/Desktop/pokedex-api/.idea/pokedex-api.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProjects/.idea/pythonProjects.iml" filepath="$USER_HOME$/PycharmProjects/pythonProjects/.idea/pythonProjects.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/teste foda se/.idea/teste foda se.iml" filepath="$USER_HOME$/Desktop/teste foda se/.idea/teste foda se.iml" />
+    </modules>
+  </component>
+</project>
