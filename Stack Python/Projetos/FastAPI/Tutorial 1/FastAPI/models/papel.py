@@ -1,0 +1,15 @@
+import ormar
+from config import database, metadata
+
+
+class Papel(ormar.Model):
+    class Meta: #criar modelo e conectar com o banco
+        metadata = metadata
+        database = database
+        tablename ="papeis"
+
+    id: int = ormar.Integer(primary_key=True)
+    nome: str = ormar.String(max_length=100)
+    sigla: str = ormar.String(max_length=10)
+    cnpj: str = ormar.String(max_length=20)
+
