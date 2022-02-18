@@ -35,16 +35,17 @@
       - Flask (WEB e API)
       - Módulos
       - Orientação a objeto
+      - API Django REST Framework
+      - FAST API
     - [Tarefas](#tarefas) (apenas as pastas dentro do diretório) 
       - Análise de dados (exercícios feitos no pycharm e jupyter notebook)
-        - tarefa3_numpy
-        - tarefa5_df
       - Banco de Dados
         - MongoDB
         - MySQL
       - Flask (WEB e API)
       - Tarefa 1 classes
       - Tarefa 2 classes
+      - FAST API
 
 ## Cronograma 📆
 - 1º: Git e metodologias ágeis ✅
@@ -52,7 +53,7 @@
 - 3º: Programação orientada a objeto ✅
 - 4º: Stack Python ✅
 - 5º: Curso <a href="https://www.udemy.com/?deal_code=&utm_source=aff-campaign&utm_medium=udemyads&utm_term=Homepage&utm_content=Textlink&utm_campaign=Admitad-default&admitad_uid=d4a97e0ec7f1175222b274215ff2b54a&publisher_id=1437351&website_id=1599938">udemy<a/> - DJANGO REST FRAMEWORK ✅
-- 6º: APIs com Python (21%)
+- 6º: APIs com Python ✅
 
 ## Instalações 🔧
 Abra o prompt de comandos e realize os procedimentos:
